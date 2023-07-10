@@ -1,4 +1,4 @@
-# Numeros_primos_distribuido
+# Numeros primos distribuido
 Programa que verifica si un número es primo de manera distribuida (Azure)
 
 Durante el curso de sistemas distribuidos, realizamos varias tareas utilizando azure, esta es una de ellas, la cual consiste en determinar si un número es primo utilizando tres máquinas virtuales que distribuyen el cálculo y la obtención del resultado.
